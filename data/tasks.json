@@ -1,0 +1,42 @@
+[
+  {
+    "id": "7eed85da-c014-4b48-b338-2b397627cf6d",
+    "title": "dsa",
+    "description": "learn dsa in sequence",
+    "startDate": "2026-06-06",
+    "dueDate": "2026-07-01",
+    "completed": false
+  },
+  {
+    "id": "2ce80e26-d42d-4216-9d30-047f88fd4774",
+    "title": "make tea",
+    "description": "make lemon tea",
+    "startDate": "2026-06-05",
+    "dueDate": "2026-06-06",
+    "completed": false
+  },
+  {
+    "id": "5caa8af5-b031-4488-961a-0f85418197e6",
+    "title": "python",
+    "description": "learn the things",
+    "startDate": "2026-06-05",
+    "dueDate": "2025-04-01",
+    "completed": true
+  },
+  {
+    "id": "873457e1-47ab-4a8e-aeed-3d179483158a",
+    "title": "mongo",
+    "description": "learn mongo db",
+    "startDate": "2026-06-05",
+    "dueDate": "2027-07-01",
+    "completed": true
+  },
+  {
+    "id": "5b86b464-58e1-453f-a313-e8171a2a15a0",
+    "title": "Learn task",
+    "description": "asldkfjaslkfj",
+    "startDate": "2026-06-05",
+    "dueDate": "2026-06-04",
+    "completed": false
+  }
+]
